@@ -1,0 +1,5 @@
+$ gcc-4.0 hello.m -o hello -framework Foundation
+$ ./hello
+
+$ gcc-4.0 hello2.m -o hello2 -framework Foundation
+$ ./hello2
